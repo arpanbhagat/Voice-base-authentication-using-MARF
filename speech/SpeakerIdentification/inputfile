@@ -1,0 +1,632 @@
+Training.....and....Testing...
+SpeakerIdentApp: Statistics has been reset.
+Config: -norm -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -norm -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Prakhar
+Config: -norm -fft -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -norm -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -norm -fft -diff
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Prakhar
+Config: -norm -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -norm -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -norm -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -norm -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -norm -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -norm -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -norm -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -norm -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -norm -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -norm -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Bhushan
+Prakhar		Bhushan
+Config: -boost -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -fft -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -fft -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -boost -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -low -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -low -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Prakhar
+Config: -low -fft -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -low -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -low -fft -diff
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Prakhar
+Config: -low -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Prakhar
+Config: -low -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Prakhar
+Config: -low -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Prakhar
+Config: -low -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Prakhar
+Config: -low -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Prakhar
+Config: -low -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Avijeet
+Config: -low -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -low -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -low -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Avijeet
+Config: -low -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -high -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -fft -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -fft -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Bhushan
+Config: -high -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Avijeet
+Mayank		Bhushan
+Prakhar		Prakhar
+Config: -high -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Avijeet
+Mayank		Bhushan
+Prakhar		Prakhar
+Config: -high -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Avijeet
+Mayank		Bhushan
+Prakhar		Prakhar
+Config: -high -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Avijeet
+Mayank		Bhushan
+Prakhar		Prakhar
+Config: -high -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Avijeet
+Mayank		Bhushan
+Prakhar		Bhushan
+Config: -high -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Bhushan
+Config: -high -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Bhushan
+Config: -band -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -fft -mink
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -fft -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Mayank
+Config: -band -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Mayank
+Config: -band -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -band -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Bhushan
+Config: -band -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Bhushan
+Config: -band -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Bhushan
+Config: -band -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Bhushan
+Config: -band -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Avijeet
+Prakhar		Bhushan
+Config: -highpassboost -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -fft -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -fft -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -highpassboost -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Prakhar
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -raw -fft -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -raw -fft -cheb
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Prakhar
+Config: -raw -fft -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -raw -fft -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Avijeet
+Config: -raw -fft -diff
+Done training on folder "training-samples".
+Avijeet		Avijeet
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Prakhar
+Config: -raw -lpc -eucl
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -raw -lpc -cheb
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -raw -lpc -mink
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -raw -lpc -mah
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -raw -lpc -diff
+Done training on folder "training-samples".
+Avijeet		Prakhar
+Bhushan		Bhushan
+Mayank		Mayank
+Prakhar		Mayank
+Config: -raw -minmax -eucl
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -raw -minmax -cheb
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -raw -minmax -mink
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -raw -minmax -mah
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Prakhar
+Prakhar		Prakhar
+Config: -raw -minmax -diff
+Done training on folder "training-samples".
+Avijeet		Bhushan
+Bhushan		Bhushan
+Mayank		Bhushan
+Prakhar		Bhushan
